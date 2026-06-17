@@ -13,7 +13,6 @@ Built 4 - page Power BI dashboard with:
 - Monthly Revenue Trend (Line Chart)
 - Top 10 Countries by Revenue (Bar Chart)
 - Top 10 Products by sales (Bar Chart)
-- Revenue Distribution (Treemap)
 ## Files
 -main.py - python cleaning script 
 - online_retail_final.csv - cleaned dataset
