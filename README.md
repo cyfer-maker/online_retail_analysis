@@ -9,7 +9,7 @@ End-to-end data analysis project on a real-world online retail dataset with 1M+ 
 -Remove duplicate and unwanted columns
 -Standardized month numbers to month names
 -Structured columns in professional order
-Built 4 - page Power BI dashboard with:
+Built 3 - page Power BI dashboard with:
 - Monthly Revenue Trend (Line Chart)
 - Top 10 Countries by Revenue (Bar Chart)
 - Top 10 Products by sales (Bar Chart)
@@ -17,5 +17,4 @@ Built 4 - page Power BI dashboard with:
 -main.py - python cleaning script 
 - online_retail_final.csv - cleaned dataset
 - ## Dataset
-- online Retail II - UCI Machine Learning Repository
-- 
+- online Retail II - UCI Machine Learning Repository.
